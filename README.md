@@ -15,6 +15,16 @@ The Escape is a game built in java swing. The fundamental idea behind my project
 
 **End:** The Game will end when the power of player reaches zero and Game Over frame will be displayed. It will contain score and a Try Again button. Clicking it will take you to main menu.  
 
+## How To Play
+**If you do not have NetBeans and you want to play. Follow the instructions below:**
+
+* Clone or Download the project.
+* Open folder named 'Compiled Project'.
+* Run the file 'The-Escape.jar'.
+* Start Playing!
+
+**Note: Do not delete or change anything in res folder. The game will not run that way.**  
+
 ## Prerequisites
 
 * JDK 1.8
